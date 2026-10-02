@@ -1,12 +1,6 @@
 # Road Sign Detection and Classification in Diverse Lightings
 ### Advanced Computer Vision & Deep Learning Image Processing Pipeline
 
-**Author:** Baraa' Bilbeisi  
-**Date:** December 4th, 2023  
-**Course Context:** EE623 / EE726 Computer Vision & Deep Learning  
-
----
-
 > ### ℹ️ [AI Note: Provenance & Attribution Legend]
 > - **Original Repository Context:** All section titles, system objectives, pipeline descriptions, parameter values, code comments, slide contents, and benchmark figures directly quote or mirror the repository's presentation (`Road Sign Detection and Classification in diverse lightings.pptx`), Python source files (`EE726_Project_e1.py`, `EE726_Project_e2.py`, `EE726_Project_e3.py`), and Jupyter notebooks (`EE623_Finalproject_part1.ipynb`, `EE623_FinalProject_part2.ipynb`, `EE726_MachineLearning.ipynb`).
 > - **`[AI Annotation]` Tag:** Any supplementary technical synthesis, recruiter-focused executive summaries, comparative analysis matrices, Mermaid architecture diagrams, or environmental setup instructions authored by the AI assistant are explicitly labeled with `[AI Annotation]` or `[AI Note]` to maintain full distinction from the author's original work.
